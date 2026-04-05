@@ -1,6 +1,6 @@
 # Anki 한국어뱅크 TOPIK I & II 한권이면 OK
 
-Bộ thẻ Anki và tài liệu ôn thi tiếng Hàn dựa trên bộ sách **한국어뱅크 TOPIK 한권이면 OK** dành cho các cấp độ từ sơ cấp (TOPIK I) đến trung & cao cấp (TOPIK II).
+Bộ thẻ Anki và tài liệu ôn thi tiếng Hàn dựa trên sổ tay từ vựng & ngữ pháp đính kèm cuốn sách  **한국어뱅크 TOPIK 한권이면 OK** dành cho các cấp độ từ sơ cấp (TOPIK I) đến trung & cao cấp (TOPIK II).
 
 ## 📂 Nội dung Repository
 
