@@ -22,7 +22,7 @@ Bộ thẻ được tổng hợp từ sổ tay từ vựng & ngữ pháp đính 
 * **Thẻ từ vựng**: Mỗi thẻ gồm từ tiếng Hàn, nghĩa tiếng Việt/Hán Hàn/Anh, kèm ảnh minh họa.
 * **Thẻ ngữ pháp**: Các cấu trúc quan trọng như `-았/었-`, `V-(으)세요`, `V-(으)ㄹ 거예요`, `A/V-아서/어서`, `N-(으)로`,... kèm giải thích và ví dụ.
 * **File âm thanh**: Câu nghe có chứa từ vựng và ngữ pháp để luyện kỹ năng nghe thực tế.
-* **📌 Chủ đề**: Cuộc sống hàng ngày, chào hỏi, giao tiếp xã hội, thời gian, thời tiết, du lịch, gia đình, mua sắm, đồ ăn, sở thích, v.v.
+* **Chủ đề**: Cuộc sống hàng ngày, chào hỏi, giao tiếp xã hội, thời gian, thời tiết, du lịch, gia đình, mua sắm, đồ ăn, sở thích, v.v.
 
 **🎯 Đối tượng sử dụng:**
 
