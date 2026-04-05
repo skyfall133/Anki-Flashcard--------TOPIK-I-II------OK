@@ -37,7 +37,7 @@ Bộ thẻ được tổng hợp từ sổ tay từ vựng & ngữ pháp đính 
 * **Thẻ từ vựng**: Mỗi thẻ gồm từ tiếng Hàn, nghĩa tiếng Việt/Hán Hàn/Anh, kèm ảnh minh họa.
 * **Thẻ ngữ pháp**: Các cấu trúc quan trọng được giải thích và có ví dụ minh họa đi kèm.
 * **File âm thanh**: Luyện nghe thực tế với các câu chứa ngữ pháp và từ vựng trọng tâm.
-* **📌 Chủ đề**: Công nghệ, xã hội, môi trường, kinh tế, sức khỏe, văn hóa, giáo dục, chính sách, quan hệ quốc tế, và học thuật.
+* **Chủ đề**: Công nghệ, xã hội, môi trường, kinh tế, sức khỏe, văn hóa, giáo dục, chính sách, quan hệ quốc tế, và học thuật.
 
 **🎯 Đối tượng sử dụng:**
 
